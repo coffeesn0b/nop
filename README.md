@@ -1,8 +1,6 @@
 # Nop
 
-## Introduction
-
-What is Nop?
+## What is Nop?
 
 Nop is an extensible "NoOps" tool that will generate a full stack (and opinionated) large scale cloud native application with example business logic, automated tests, infrastructure, and CI/CD, using a series of prompts or flags. Nop picks up where other SRE tools leave off... by going beyond just infrastructure concerns, and providing developers a fully generated application architecture, environments, monitoring, pipeline, etc.
 
