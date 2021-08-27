@@ -6,6 +6,10 @@ Nop is an extensible "NoOps" tool that will generate a full stack (and opinionat
 
 This architecture will be secure, SOC and HIPAA compliant, as well as choosing technology that is most appropriate for the described problem. It will also generate a ReadMe where it documents all the appropriate tools that it generates for your service. We don't believe there's a tradeoff between standardization and customization when it's approached correctly.
 
+## What is Nop's goal?
+
+Launch AND RUN applications with the correct architecture, at scale (or not, where appropriate) that are also PCI/HIPAA/SOC/GDPR compliant... without any SRE's or Ops.
+
 ## Installation and usage
 
 blah blah blah
